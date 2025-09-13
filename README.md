@@ -26,3 +26,9 @@ Tue ▓▓▓▓▓
 Wed ▓
 Thu ▓▓▓▓▓▓
 Fri 🔥🔥🔥
+
+# commit_every_day.sh — doctor's orders
+alias vitamin_c='git add -A && git commit -m "chore: daily vitamin C(ommit) 💊" && git push'
+
+# usage:
+# $ vitamin_c   # keeps the streak alive
