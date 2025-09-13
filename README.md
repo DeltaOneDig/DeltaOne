@@ -20,9 +20,6 @@ Web3 dev. I ship
 ### Uptime (of me)
 |███████████-------| 73% reliable before coffee
 
-shell
-Copier le code
-
 ### Commit Energy
 Mon ▓▓▓
 Tue ▓▓▓▓▓
