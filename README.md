@@ -1,3 +1,3 @@
 # Hey, I'm DeltaOne 👋
 
-Web3 dev. I ship
+Web3 dev. I ship for you
